@@ -1,4 +1,4 @@
-[# Image-classification-using-CNN
+# Image-classification-using-CNN
 Image Classification using Convolutional Neural Networks
 Image Classification using Convolutional Neural Networks
 This project aims to classify the images in the given dataset as cats or dogs using convolutional neural networks(CNN)
@@ -19,4 +19,4 @@ accuracy: 0.9759
 val_loss: 0.3255
 val_accuracy: 0.9044
 The model was tested on the images in the test1 folder. The performance of the model was very good and was able to predict the animals with 97-99% accuracy.
-](https://github.com/nandkumarcoder/Image-classification-using-CNN.git)
+
